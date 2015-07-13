@@ -1,6 +1,10 @@
 ^cran-comments\.md$
 ^\.travis\.yml$
 autofun.Rproj
+<<<<<<< HEAD
 build-package.R
 ^.*\.Rproj$
 ^\.Rproj\.user$
+=======
+build-package.R
+>>>>>>> 0a2d80a9c2a3a803ff8055eec7ba85055653a75c
