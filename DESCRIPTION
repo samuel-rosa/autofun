@@ -1,0 +1,14 @@
+Package: autofun
+Title: Automatic Generation of R Functions
+URL: https://github.com/samuel-rosa/autofun
+Version: 0.0.0.9000
+Author: Alessandro Samuel-Rosa
+Maintainer: Alessandro Samuel-Rosa <alessandrosamuelrosa@gmail.com>
+Description: Automatically generate an R funtion using source code contained 
+             in an R script.
+Depends: R (>= 3.2.1)
+License: GPL (>= 2)
+LazyData: true
+Suggests: knitr
+VignetteBuilder: knitr
+Encoding: UTF-8
